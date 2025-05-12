@@ -1,3 +1,4 @@
+//Challenge 2
 import java.util.Random;
 
 public class Dice {
