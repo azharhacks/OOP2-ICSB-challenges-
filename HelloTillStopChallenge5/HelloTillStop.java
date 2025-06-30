@@ -1,4 +1,5 @@
 //Challenge 5
+package HelloTillStopChallenge5;
 import java.util.Scanner;
 class HelloTillStop {
     Scanner sc=new Scanner(System.in);
